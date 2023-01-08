@@ -28,6 +28,8 @@ This system serves an important purpose by providing an accessible way for the d
 * The Speech Recognition System includes Word Sense Disambiguation, Speech Tagging, and Natural Language Processing (NLP). 
 * The Hand Sign Recognition System includes OpenCV, Media Pipe Holistic, and a Convolutional Neural Network (CNN) Model.
 
+![plot](./flow_chart_accessible_Learning(2).jpg)
+
 ## Results
 
 * The Audio File is first converted to text, followed by the text being converted to Braille.
