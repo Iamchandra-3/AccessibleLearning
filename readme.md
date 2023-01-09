@@ -1,6 +1,6 @@
 # AccessibleLearning
 Speech to Braille Translator and Sign Language Recognition System 
-### <a href="https://www.youtube.com/watch?v=72q7JMOZwPo"> demo link </a> 
+### <a href="https://www.youtube.com/watch?v=72q7JMOZwPo"> Demo link </a> 
 The purpose of this project is to provide a system that will allow people with special needs to access audio-video content. This system will convert speech to Braille and detect signs in order to teach Sign Language. This could be a great asset to those who are deaf and blind, as well as to Sign Language Coaches, NGOs, and Braille Publishing Companies.
 
 ## Speech To Braille
