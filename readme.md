@@ -3,6 +3,12 @@ Speech to Braille Translator and Sign Language Recognition System
 ### <a href="https://www.youtube.com/watch?v=72q7JMOZwPo"> Demo link </a> 
 The purpose of this project is to provide a system that will allow people with special needs to access audio-video content. This system will convert speech to Braille and detect signs in order to teach Sign Language. This could be a great asset to those who are deaf and blind, as well as to Sign Language Coaches, NGOs, and Braille Publishing Companies.
 
+
+## ACKNOWLEDGEMENT:
+We would like to express our sincere appreciation to the SHEBUILDS Hackathon for providing us with the opportunity to work on this project. We would also like to thank
+our mentors and team members for their valuable guidance and support throughout the project. Finally, we would like to thank all the people who have supported and
+contributed to this project. Your help has been invaluable and we are truly grateful.
+
 ## Speech To Braille
 
 This system will convert spoken words or written text to Braille and print the same, making it easier for the blind to access audio-video content. The system consists of the following steps: 
